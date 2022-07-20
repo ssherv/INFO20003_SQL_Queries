@@ -11,7 +11,7 @@ This assignment draws inspiration from the Augmented Reality game Pokemon GO. Us
 Query design and execution to return specific rows from the data model. Queries were run in MySQL Workbench.
 <hr>
 
-See 'Phonemon_Specification' for a full explanation of this assignment and the associated data model plus tasks.
+See 'Specification' for a full explanation of this assignment and the associated data model plus tasks.
 
 ![Image of the data model](/phonemonModel.png)
 
