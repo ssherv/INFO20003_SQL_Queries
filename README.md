@@ -13,13 +13,13 @@ Query design and execution to return specific rows from the data model. Queries 
 
 See 'Phonemon_Specification' for a full explanation of this assignment and the associated data model plus tasks.
 
-![Image of the data model](filePathHere)
+![Image of the data model](/phonemonModel.png)
 
 
 
 <b>Files in this repo:</b>
 <ul>
-  <li> "phonemonModel.jpg" is an image of the data model </li>
+  <li> "phonemonModel.png" is an image of the data model </li>
   <li> "Phonemon_2021.sql" is a dataset provided for query testing. It creates the database tables and populates them with data, but does not include all of the datarows from the testing dataset (to ensure edge cases are discovered and handled) </li>
   <li> "AssignmentResponses.sql" containes the SQL queries I used to complete the 10 questions in this assignment. </li>
 </ul>
